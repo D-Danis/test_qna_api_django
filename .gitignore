@@ -1,0 +1,13 @@
+/.venv*
+.env
+__pycache__
+.pytest_cache
+!rerequirements.txt
+media/
+.vscode
+.sqlite3
+db.sqlite3
+*.pyc
+*.ipynb
+*.pptx.gitignore
+task.md
