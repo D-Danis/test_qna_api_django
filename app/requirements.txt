@@ -13,3 +13,4 @@ pytest-django==4.5.0
 pytz==2025.2
 setuptools==80.9.0
 sqlparse==0.5.3
+whitenoise==6.9.0
