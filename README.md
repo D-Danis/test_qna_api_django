@@ -24,6 +24,7 @@
 
 ## Структура проекта
 
+```
 test_qna_api/
 ├── Dockerfile
 ├── docker-compose.yml
@@ -44,6 +45,7 @@ test_qna_api/
 │   ├── urls.py
 │   └── tests.py
 └── manage.py
+```
 
 ---
 
@@ -52,7 +54,7 @@ test_qna_api/
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <URLВАШЕГОРЕПОЗИТОРИЯ>
+git clone https://github.com/D-Danis/test_qna_api_django.git
 cd app
 ```
 
